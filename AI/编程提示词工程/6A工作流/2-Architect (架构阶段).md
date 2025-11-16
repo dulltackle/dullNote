@@ -7,8 +7,8 @@
 1. 系统分层设计
 
     ```md
-    基于 docs/<待开发需求>/CONSENSUS_<待开发需求>.md、ai/technology_selection.md 文档设计架构
-    生成 docs/<待开发需求>/DESIGN_<待开发需求>.md 包含:
+    基于 ai/docs/<待开发需求>/CONSENSUS_<待开发需求>.md、ai/technology_selection.md 文档设计架构
+    生成 ai/docs/<待开发需求>/DESIGN_<待开发需求>.md 包含:
     1. 整体架构图(mermaid绘制)
     2. 数据模型和业务实体
     3. 领域内业务逻辑和业务规则
@@ -43,13 +43,13 @@
 1. 可行性分析
 
     ```md
-    基于 docs/<待开发需求>/DESIGN_<待开发需求>.md 和 ai/technology_selection.md，谈谈该需求基于当前技术选型的可行性
+    基于 ai/docs/<待开发需求>/DESIGN_<待开发需求>.md 和 ai/technology_selection.md，谈谈该需求基于当前技术选型的可行性
     ```
 
 2. 确定充分理解需求
 
     ```md
-    请你详细阅读 docs/<待开发需求>/CONSENSUS_<待开发需求>.md，确认 docs/<待开发需求>/DESIGN_<待开发需求>.md 中的设计在功能点、输入输出、异常场景上可以满足 <待开发需求> 中的要求。
+    请你详细阅读 ai/docs/<待开发需求>/CONSENSUS_<待开发需求>.md，确认 ai/docs/<待开发需求>/DESIGN_<待开发需求>.md 中的设计在功能点、输入输出、异常场景上可以满足 <待开发需求> 中的要求。
     若发现矛盾请立即标记并提交备注。
     ```
 
